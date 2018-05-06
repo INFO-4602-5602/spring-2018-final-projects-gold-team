@@ -1,0 +1,10 @@
+The projects visuals are built using a Jupyter notebook and python
+
+The file has a few dependencies to run. One is a python interpreter itself, 
+the code used here is python3. The others are libraries within python, specifically
+Seaborn, Matplotlib, Numpy, and Pylab. 
+
+For Windows, a simple pip command should install these just fine
+
+This should get each of the dependencies when run in the command terminal
+python -m pip install --user numpy matplotlib jupyter pandas 
